@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\microsoft\\microsoft build reto de .net\\creaci\u00F3n de una api web con controladores de asp.net core\\contosopizza\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8727B81A-9FFC-419F-9AA0-47B61C8BFD98}|ContosoPizza.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Services\\PizzaService.cs",
+              "RelativeToolTip": "Services\\PizzaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:36:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Models\\Pizza.cs",
+              "RelativeToolTip": "Models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:36:35.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T22:11:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T22:11:49.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T22:11:49.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\Microsoft\\Microsoft Build Reto de .NET\\Creaci\u00F3n de una API web con controladores de ASP.NET Core\\ContosoPizza\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:11:49.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
